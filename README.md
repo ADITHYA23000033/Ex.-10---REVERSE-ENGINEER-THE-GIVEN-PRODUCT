@@ -32,6 +32,8 @@
 
 ## Input:
 
+![image](https://github.com/ADITHYA23000033/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148514544/ec61b402-086d-4115-858c-fbd4e9df46ef)
+
 ### Output:
 
 ![image](https://github.com/ADITHYA23000033/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148514544/77c45158-63de-4326-80df-948f0dfbfbed)
